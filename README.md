@@ -88,4 +88,6 @@ Store your mnemonic code securely for account recovery.
 
 
 
-Update: Fixed non-working url
+
+
+Update: url is now available
