@@ -92,4 +92,6 @@ Store your mnemonic code securely for account recovery.
 
 
 
-Update:  Monday 21 July 2025 Guys, the link is live again, please verify.
+
+
+Update:  07/24/2025 url is up and running again
